@@ -19,4 +19,4 @@ Moreover, the proposed architecture allows for easy future expansion of features
 This application thus offers a modern solution tailored to the real needs of skiers, emphasizing information, safety, personalization, and an enhanced user experience.
 
  
-![WhatsApp Image 2025-06-25 at 16 52 47 (1)](https://github.com/user-attachments/assets/d0e14d32-1e0e-4f63-a20b-0b4662284222)
+
