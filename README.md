@@ -17,3 +17,5 @@ During the development process, multiple interconnected modules were implemented
 Moreover, the proposed architecture allows for easy future expansion of features, both by adding new resorts and slopes and by integrating advanced modules such as personalized recommendation systems, technical performance analysis on slopes, safety alerts, and advanced data management.
 
 This application thus offers a modern solution tailored to the real needs of skiers, emphasizing information, safety, personalization, and an enhanced user experience.
+
+ 
